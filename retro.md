@@ -6,7 +6,7 @@
 - all participants list issues from the sprint
 - issues are categorized to Glad(positive feedback), Sad(Issues on the team/sprint) and Mad(Issues usually more broad than just the actions of the team)
 - Team votes on issues to discuss
-- Issues are disvussed in order of priority until time runs out
+- Issues are discussed in order of priority until time runs out
 
 
 ### 2. Start, Stop, Continue, More of, Less of
@@ -17,4 +17,4 @@
 - facilitator writes a short summary of each issue on the respective sector of the circle
 
 
-2 is faster and goes conversation first, 1 builds up to it and might fit better for more shy team.
+2 is faster and goes conversation first, 1 builds up to it and might be a better fit for a more shy team.
