@@ -79,9 +79,8 @@ public class KauppaTest {
 
         // nyt kaksi ensimmäistä parametria saa olla arvoiltaan mitä sattuu
         // kolmannen on oltava sama mikä mock-olion määriteltiin palauttavan
-        verify(mockPankki).maksa(anyString(), anyInt(), eq(55));
+        verify(mockPankki).maksa(anyString(), anyInt(), eq(54));
     }
-
     @Test
     public void pyydetaanUusiViiteJokaiseenMaksuun() {
         Pankki mockPankki = mock(Pankki.class);
